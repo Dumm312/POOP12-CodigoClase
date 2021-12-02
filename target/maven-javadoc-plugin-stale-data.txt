@@ -1,0 +1,44 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP12/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP12/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP12 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/Piixxel/Documents/NetBeansProjects/POOP12/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'POOP12 1.0-SNAPSHOT API'
+com.mycompany.poop12
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP12/src/main/java/com/mycompany/poop12/EjercicioThreadGroup.java'
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP12/src/main/java/com/mycompany/poop12/HiloR.java'
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP12/src/main/java/com/mycompany/poop12/HiloT.java'
+'C:/Users/Piixxel/Documents/NetBeansProjects/POOP12/src/main/java/com/mycompany/poop12/Main.java'
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\src\main\java = 1638291672329
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\allclasses-frame.html = 1638414356651
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\allclasses-noframe.html = 1638414356667
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\constant-values.html = 1638414356385
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\deprecated-list.html = 1638414356651
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\help-doc.html = 1638414356667
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\index-all.html = 1638414356620
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\index.html = 1638414356667
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\overview-tree.html = 1638414356604
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\package-list = 1638414356292
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\script.js = 1638414356698
+C:\Users\Piixxel\Documents\NetBeansProjects\POOP12\target\site\apidocs\stylesheet.css = 1638414356698
